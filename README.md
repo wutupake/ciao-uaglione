@@ -1,3 +1,3 @@
-# ciao-cris
-Ciao Cris è una pagina html che funge da biglietto di auguri per il nostro amico/collega Cristian.
-https://wutupake.github.io/ciao-cris/
+# ciao-uaglione
+Ciao uaglione è una pagina html che funge da biglietto di auguri per il nostro amico/collega Luca.
+https://wutupake.github.io/ciao-uaglione/
