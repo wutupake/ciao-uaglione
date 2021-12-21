@@ -1,11 +1,12 @@
 html {
-  color: #222;
+  background-color: #2393cd;
+  color: #fff;
   font-size: 1.6em;
   line-height: 1.4;
 }
 
 .wrap {
-  font-family: 'Indie Flower', cursive;
+  font-family: 'Architects Daughter', cursive;
   box-sizing: border-box;
   margin: 0 auto;
   padding: 0 0.5em;
@@ -34,17 +35,23 @@ a:hover {
 
 blockquote {
   margin: 0;
+  color: #223;
 }
 
 figure {
   margin: 0;
   padding: .7em;
-  background-color: #eee;
+  background-color: rgba(255,255,255,.9);
+}
+
+figure.transparent {
+  background-color: transparent;
 }
 
 figcaption {
   margin-top: 1em;
   font-size: .7em;
+  color: #223;
 }
 
 .meme {
