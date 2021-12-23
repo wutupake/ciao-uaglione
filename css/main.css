@@ -5,6 +5,13 @@ html {
   line-height: 1.4;
 }
 
+body {
+  background: url('img/golfo-napoli.jpg');
+  background-size: cover;
+  background-position: center center;
+  background-attachment: fixed;
+}
+
 .wrap {
   font-family: 'Architects Daughter', cursive;
   margin-bottom: 100px;
@@ -16,6 +23,7 @@ html {
   padding: 0 0.5em;
   width: 100%;
   max-width: 560px;
+  background-color: rgba(140,140,140,0.5);
 }
 
 mark {
