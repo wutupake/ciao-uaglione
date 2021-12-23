@@ -21,6 +21,7 @@ body {
   max-width: 560px;
   margin-bottom: 100px;
   background-color: rgba(140,140,140,0.5);
+  overflow: hidden;
 }
 
 mark {
