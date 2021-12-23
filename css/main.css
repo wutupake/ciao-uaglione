@@ -96,5 +96,5 @@ textarea {
 
 .carousel-item-start {
   flex-shrink: 0;
-  width: calc((100vw - 560px) * 0.4);
+  width: calc((100vw - 560px) * 0.5 - (24px * 2));
 }
